@@ -1,0 +1,136 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\bear\Downloads\Glossary-0806\Glossary!\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\bear\Downloads\Glossary-0806\Glossary!\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\bear\Downloads\Glossary-0806\Glossary!\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\bear\Downloads\Glossary-0806\Glossary!\app\src\main\AndroidManifest.xml:2:1-28:12
+MERGED from [com.android.support:design:27.1.0] C:\Users\bear\.gradle\caches\transforms-1\files-1.1\design-27.1.0.aar\2d6bbd2e51dbfec988fab44a5791058e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\bear\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\4e93548cc67e659434a6fcf96558f820\AndroidManifest.xml:2:1-11:12
+MERGED from [com.makeramen:roundedimageview:2.3.0] C:\Users\bear\.gradle\caches\transforms-1\files-1.1\roundedimageview-2.3.0.aar\f9f9ad5c57327037c9f1de75c3d2093b\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:cardview-v7:27.1.0] C:\Users\bear\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.0.aar\78c0d78e9b84e181e69807be9c29fecd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.0] C:\Users\bear\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.0.aar\8b79401c00f03ff0c17294d502be1e38\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.1.0] C:\Users\bear\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.0.aar\bb61b9ed3cccc781881a549da70dd427\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.0] C:\Users\bear\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.0.aar\f1c857dcfb1a0b7b34fd40fc4f69bf5b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.0] C:\Users\bear\.gradle\caches\transforms-1\files-1.1\transition-27.1.0.aar\aaa65b2cbfcc3e1a1f2202d533d90c38\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\bear\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.0.aar\5d5c1f399e1baa127485987b1b750cd0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] C:\Users\bear\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.0.aar\72b1a6ddecf406a1c5e4e66c8cfa0ad8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\bear\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.0.aar\59cd2d4b01de82de7ff7a920592d965a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.0] C:\Users\bear\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.0.aar\b1ea74851a3f46731c04b81835c840f8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.0] C:\Users\bear\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.0.aar\fe7b811e0503a9d21d0de1fae12c1a0e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.0] C:\Users\bear\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.0.aar\f5fa7dfa6f41e68a4656b9b966e721e6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.0] C:\Users\bear\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.0.aar\039fbbc48e1b3d1c0644502a1e853b48\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\bear\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\2813a1bba48282c496668fd4aaad1ded\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\bear\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\309729580c38abe57f9bb62ee5fd25ac\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\bear\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\7f8aab0a3ee793e060cf24fac3fcd81c\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\bear\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\53a2812e41761f6d8fdecb56bb2c7adb\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\bear\Downloads\Glossary-0806\Glossary!\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\bear\Downloads\Glossary-0806\Glossary!\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\bear\Downloads\Glossary-0806\Glossary!\app\src\main\AndroidManifest.xml:2:1-28:12
+	package
+		ADDED from C:\Users\bear\Downloads\Glossary-0806\Glossary!\app\src\main\AndroidManifest.xml:3:5-46
+		INJECTED from C:\Users\bear\Downloads\Glossary-0806\Glossary!\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\bear\Downloads\Glossary-0806\Glossary!\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\bear\Downloads\Glossary-0806\Glossary!\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\bear\Downloads\Glossary-0806\Glossary!\app\src\main\AndroidManifest.xml:2:1-28:12
+		INJECTED from C:\Users\bear\Downloads\Glossary-0806\Glossary!\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\bear\Downloads\Glossary-0806\Glossary!\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\bear\Downloads\Glossary-0806\Glossary!\app\src\main\AndroidManifest.xml:2:1-28:12
+		INJECTED from C:\Users\bear\Downloads\Glossary-0806\Glossary!\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\bear\Downloads\Glossary-0806\Glossary!\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\bear\Downloads\Glossary-0806\Glossary!\app\src\main\AndroidManifest.xml:5:5-26:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\bear\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\4e93548cc67e659434a6fcf96558f820\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\bear\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\4e93548cc67e659434a6fcf96558f820\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from C:\Users\bear\Downloads\Glossary-0806\Glossary!\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\bear\Downloads\Glossary-0806\Glossary!\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\bear\Downloads\Glossary-0806\Glossary!\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Users\bear\Downloads\Glossary-0806\Glossary!\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\bear\Downloads\Glossary-0806\Glossary!\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\bear\Downloads\Glossary-0806\Glossary!\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.alex.viewpagertest1.MainActivity
+ADDED from C:\Users\bear\Downloads\Glossary-0806\Glossary!\app\src\main\AndroidManifest.xml:12:9-21:20
+	android:label
+		ADDED from C:\Users\bear\Downloads\Glossary-0806\Glossary!\app\src\main\AndroidManifest.xml:14:13-45
+	android:theme
+		ADDED from C:\Users\bear\Downloads\Glossary-0806\Glossary!\app\src\main\AndroidManifest.xml:15:13-56
+	android:name
+		ADDED from C:\Users\bear\Downloads\Glossary-0806\Glossary!\app\src\main\AndroidManifest.xml:13:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\bear\Downloads\Glossary-0806\Glossary!\app\src\main\AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\bear\Downloads\Glossary-0806\Glossary!\app\src\main\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from C:\Users\bear\Downloads\Glossary-0806\Glossary!\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\bear\Downloads\Glossary-0806\Glossary!\app\src\main\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from C:\Users\bear\Downloads\Glossary-0806\Glossary!\app\src\main\AndroidManifest.xml:19:27-74
+activity#com.example.alex.viewpagertest1.SearchItem
+ADDED from C:\Users\bear\Downloads\Glossary-0806\Glossary!\app\src\main\AndroidManifest.xml:22:9-23:20
+	android:name
+		ADDED from C:\Users\bear\Downloads\Glossary-0806\Glossary!\app\src\main\AndroidManifest.xml:22:19-45
+activity#com.example.alex.viewpagertest1.userprofile
+ADDED from C:\Users\bear\Downloads\Glossary-0806\Glossary!\app\src\main\AndroidManifest.xml:24:9-25:20
+	android:name
+		ADDED from C:\Users\bear\Downloads\Glossary-0806\Glossary!\app\src\main\AndroidManifest.xml:24:19-46
+uses-sdk
+INJECTED from C:\Users\bear\Downloads\Glossary-0806\Glossary!\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\bear\Downloads\Glossary-0806\Glossary!\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\bear\Downloads\Glossary-0806\Glossary!\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.0] C:\Users\bear\.gradle\caches\transforms-1\files-1.1\design-27.1.0.aar\2d6bbd2e51dbfec988fab44a5791058e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.0] C:\Users\bear\.gradle\caches\transforms-1\files-1.1\design-27.1.0.aar\2d6bbd2e51dbfec988fab44a5791058e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\bear\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\4e93548cc67e659434a6fcf96558f820\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\bear\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\4e93548cc67e659434a6fcf96558f820\AndroidManifest.xml:5:5-7:41
+MERGED from [com.makeramen:roundedimageview:2.3.0] C:\Users\bear\.gradle\caches\transforms-1\files-1.1\roundedimageview-2.3.0.aar\f9f9ad5c57327037c9f1de75c3d2093b\AndroidManifest.xml:7:5-43
+MERGED from [com.makeramen:roundedimageview:2.3.0] C:\Users\bear\.gradle\caches\transforms-1\files-1.1\roundedimageview-2.3.0.aar\f9f9ad5c57327037c9f1de75c3d2093b\AndroidManifest.xml:7:5-43
+MERGED from [com.android.support:cardview-v7:27.1.0] C:\Users\bear\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.0.aar\78c0d78e9b84e181e69807be9c29fecd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.0] C:\Users\bear\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.0.aar\78c0d78e9b84e181e69807be9c29fecd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.0] C:\Users\bear\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.0.aar\8b79401c00f03ff0c17294d502be1e38\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.0] C:\Users\bear\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.0.aar\8b79401c00f03ff0c17294d502be1e38\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.0] C:\Users\bear\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.0.aar\bb61b9ed3cccc781881a549da70dd427\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.0] C:\Users\bear\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.0.aar\bb61b9ed3cccc781881a549da70dd427\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.0] C:\Users\bear\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.0.aar\f1c857dcfb1a0b7b34fd40fc4f69bf5b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.0] C:\Users\bear\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.0.aar\f1c857dcfb1a0b7b34fd40fc4f69bf5b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.0] C:\Users\bear\.gradle\caches\transforms-1\files-1.1\transition-27.1.0.aar\aaa65b2cbfcc3e1a1f2202d533d90c38\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.0] C:\Users\bear\.gradle\caches\transforms-1\files-1.1\transition-27.1.0.aar\aaa65b2cbfcc3e1a1f2202d533d90c38\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\bear\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.0.aar\5d5c1f399e1baa127485987b1b750cd0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\bear\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.0.aar\5d5c1f399e1baa127485987b1b750cd0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] C:\Users\bear\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.0.aar\72b1a6ddecf406a1c5e4e66c8cfa0ad8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] C:\Users\bear\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.0.aar\72b1a6ddecf406a1c5e4e66c8cfa0ad8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\bear\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.0.aar\59cd2d4b01de82de7ff7a920592d965a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\bear\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.0.aar\59cd2d4b01de82de7ff7a920592d965a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] C:\Users\bear\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.0.aar\b1ea74851a3f46731c04b81835c840f8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] C:\Users\bear\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.0.aar\b1ea74851a3f46731c04b81835c840f8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.0] C:\Users\bear\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.0.aar\fe7b811e0503a9d21d0de1fae12c1a0e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.0] C:\Users\bear\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.0.aar\fe7b811e0503a9d21d0de1fae12c1a0e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.0] C:\Users\bear\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.0.aar\f5fa7dfa6f41e68a4656b9b966e721e6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.0] C:\Users\bear\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.0.aar\f5fa7dfa6f41e68a4656b9b966e721e6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] C:\Users\bear\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.0.aar\039fbbc48e1b3d1c0644502a1e853b48\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] C:\Users\bear\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.0.aar\039fbbc48e1b3d1c0644502a1e853b48\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\bear\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\2813a1bba48282c496668fd4aaad1ded\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\bear\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\2813a1bba48282c496668fd4aaad1ded\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\bear\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\309729580c38abe57f9bb62ee5fd25ac\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\bear\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\309729580c38abe57f9bb62ee5fd25ac\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\bear\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\7f8aab0a3ee793e060cf24fac3fcd81c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\bear\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\7f8aab0a3ee793e060cf24fac3fcd81c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\bear\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\53a2812e41761f6d8fdecb56bb2c7adb\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\bear\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\53a2812e41761f6d8fdecb56bb2c7adb\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\bear\Downloads\Glossary-0806\Glossary!\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\bear\Downloads\Glossary-0806\Glossary!\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\bear\Downloads\Glossary-0806\Glossary!\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\bear\Downloads\Glossary-0806\Glossary!\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\bear\Downloads\Glossary-0806\Glossary!\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\bear\Downloads\Glossary-0806\Glossary!\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\bear\Downloads\Glossary-0806\Glossary!\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\bear\Downloads\Glossary-0806\Glossary!\app\src\main\AndroidManifest.xml
