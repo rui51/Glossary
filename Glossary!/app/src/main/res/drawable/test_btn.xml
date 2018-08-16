@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+
+<shape android:shape="rectangle" xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!--设置圆角-->
+
+
+    <!--<gradient android:startColor="#c297abff" android:endColor="#c2123597" android:angle="270" />-->
+
+
+    <!--设置内容离边界的距离-->
+
+
+    <!--<padding android:bottom="7dp" android:right="7dp" android:top="20dp" android:left="50dp"/>
+-->
+    <solid android:color="#24ffffff"/>
+
+    <stroke  android:width="2.0dip"
+            android:color="#b4f6f6f6"
+            android:dashWidth="3.0dip"
+            android:dashGap="0.0dip" />
+
+
+    <corners android:radius="10dp"/>
+
+    <!--设置圆角-->
+
+
+</shape>

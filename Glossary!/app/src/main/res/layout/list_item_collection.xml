@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <TextView
+        android:id="@+id/textViewTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:layout_alignStart="@+id/textViewContext"
+        android:text="Title"
+        android:textAppearance="@style/Base.TextAppearance.AppCompat.Large" />
+
+    <TextView
+        android:id="@+id/textViewContext"
+        android:layout_width="351dp"
+        android:layout_height="139dp"
+        android:layout_below="@+id/textViewTitle"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="30dp"
+        android:layout_marginStart="40dp"
+        android:text="Context" />
+
+    <Button
+        android:id="@+id/buttonRemove"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="10dp"
+        android:layout_marginStart="260dp"
+        android:background="@android:drawable/btn_star_big_off"/>
+    <Button
+        android:id="@+id/buttonRemove2"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="10dp"
+        android:layout_marginStart="260dp"
+        android:background="@android:drawable/btn_star_big_on"/>
+
+    <Button
+        android:id="@+id/buttonCopy"
+        android:layout_width="35dp"
+        android:layout_height="35dp"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="13dp"
+        android:layout_marginStart="310dp"
+        android:background="@drawable/copy"/>
+</RelativeLayout>
